@@ -9,4 +9,5 @@ My leetcode china account : 许锦鹏
 ### [Array 数组](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/Solution/src/Math)
 
 [35. Search Insert Position 搜索插入位置](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution46/Solution.java)
+[350. Intersection of Two Arrays II 两个数组交集II](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Solution41/Solution.java)
  
