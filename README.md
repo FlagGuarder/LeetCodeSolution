@@ -6,4 +6,7 @@ Here are some solution of leetcode .although some of them aren't prefect, I will
 My leetcode china account : 许锦鹏
 
 ## Already Solved
- [Array 数组](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/Solution/src/Math)
+### [Array 数组](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/Solution/src/Math)
+
+[35. Search Insert Position 搜索插入位置](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution46/Solution.java)
+ 
