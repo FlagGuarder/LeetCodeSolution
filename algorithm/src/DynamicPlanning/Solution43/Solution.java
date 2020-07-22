@@ -1,4 +1,4 @@
-package Solution43;
+package DynamicPlanning.Solution43;
 
 import java.util.ArrayList;
 import java.util.Arrays;
