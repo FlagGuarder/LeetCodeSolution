@@ -3,6 +3,9 @@ Here are some solution of leetcode .although some of them aren't prefect, I will
 
 这是我的leetcode解题思路，尽管有些解法不是完美的，但我仍会尽我的能力去完善它们。此外，我还会添加中文的解题思路。
 
+
+有一些题目，我没时间整理到这里，可以去看看源码，源码我已经上传，有时间我再整理整理
+
 ## My leetcode account
 My leetcode china account : 许锦鹏
 
