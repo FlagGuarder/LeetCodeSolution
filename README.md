@@ -24,3 +24,10 @@ My leetcode china account : 许锦鹏
 [97. Interleaving String 交错字符串](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/string/Solution47/Solution.java)
 
 ### 动态规划
+
+[120. Triangle 三角形最小路径和](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution43/Solution.java)
+
+[96. Unique Binary Search Trees 不同的二插搜索树](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution44/Solution44.java)
+
+[64. Minimum Path Sum 三角形最小路径和](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution49/Solution.java)
+
