@@ -23,7 +23,7 @@ My leetcode china account : 许锦鹏
 
 [97. Interleaving String 交错字符串](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/string/Solution47/Solution.java)
 
-### 动态规划
+### [动态规划](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/DynamicPlanning)
 
 [120. Triangle 三角形最小路径和](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution43/Solution.java)
 
@@ -35,7 +35,7 @@ My leetcode china account : 许锦鹏
 
 [410. Split Array Largest Sum 分割数组的最大值](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution51/Solution.java)
 
-### dfs
+### [dfs](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/dfs)
 
 [329. Longest Increasing Path in a Matrix  矩阵中的最长递增路径
 ](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/dfs/Solution52/Solution.java)
