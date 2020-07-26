@@ -34,3 +34,8 @@ My leetcode china account : 许锦鹏
 [1025. Divisor Game 除数博弈](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution50/Solution.java)
 
 [410. Split Array Largest Sum 分割数组的最大值](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution51/Solution.java)
+
+### dfs
+
+[329. Longest Increasing Path in a Matrix  矩阵中的最长递增路径
+](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/dfs/Solution52/Solution.java)
