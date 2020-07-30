@@ -35,6 +35,8 @@ My leetcode china account : 许锦鹏
 
 [410. Split Array Largest Sum 分割数组的最大值](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution51/Solution.java)
 
+[343. Integer Break 整数拆分](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution53/Solution.java)
+
 ### [dfs](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/dfs)
 
 [329. Longest Increasing Path in a Matrix  矩阵中的最长递增路径](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/dfs/Solution52/Solution.java)
