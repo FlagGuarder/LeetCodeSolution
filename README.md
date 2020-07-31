@@ -18,6 +18,7 @@ My leetcode china account : 许锦鹏
 
 [剑指 Offer 11. 旋转数组的最小数字](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution48/Solution.java)
  
+[面试题 08.03. Magic Index LCCI  魔术索引](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution53/Solution.java)
 
 ### [String 字符串](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/string)
 
