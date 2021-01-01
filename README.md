@@ -20,6 +20,8 @@ My leetcode china account : 许锦鹏
  
 [面试题 08.03. Magic Index LCCI  魔术索引](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution53/Solution.java)
 
+[605. Can Place Flowers 种花问题](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution54/Solution.java)
+
 ### [String 字符串](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/string)
 
 [97. Interleaving String 交错字符串](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/string/Solution47/Solution.java)
@@ -52,4 +54,4 @@ My leetcode china account : 许锦鹏
 
 [169. majority element 最多元素](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Solution30/Solution30.java)
 
-[605. Can Place Flowers 种花问题](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution49/Solution.java)
+
