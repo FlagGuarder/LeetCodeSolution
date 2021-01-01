@@ -51,3 +51,5 @@ My leetcode china account : 许锦鹏
 ### [other] 
 
 [169. majority element 最多元素](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Solution30/Solution30.java)
+
+[605. Can Place Flowers 种花问题](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution49/Solution.java)
