@@ -48,4 +48,6 @@ My leetcode china account : 许锦鹏
 
 [96.Unique Binary Search Trees 不同的二插搜索树](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Tree/Solution52/Solution.java)
 
+### [other] 
 
+[169. majority element 最多元素](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Solution30/Solution30.java)
