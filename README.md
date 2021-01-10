@@ -22,7 +22,7 @@ My leetcode china account : 许锦鹏
 
 [605. Can Place Flowers 种花问题](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution54/Solution.java)
 
-[208. Summary Ranges 区间计算](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution57/Solution.java
+[228. Summary Ranges 区间计算](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution57/Solution.java
 
 
 
