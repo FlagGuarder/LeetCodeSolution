@@ -32,7 +32,7 @@ My leetcode china account : 许锦鹏
 
 ### [动态规划](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/DynamicPlanning)
 
-[62. Unique Paths 不同路径](https://github.com/FlagGuarder/LeetCodeSolution/blob/masteralgorithm/src/DynamicPlanning/Solution59/Solution.java)
+[62. Unique Paths 不同路径](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution59/Solution.java)
 
 [120. Triangle 三角形最小路径和](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution43/Solution.java)
 
