@@ -36,6 +36,8 @@ My leetcode china account : 许锦鹏
 
 [62. Unique Paths 不同路径](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution59/Solution.java)
 
+[61. Longest Common Subsequence 最长公共子序列](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution61/Solution.java)
+
 [120. Triangle 三角形最小路径和](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution43/Solution.java)
 
 [96. Unique Binary Search Trees 不同的二插搜索树](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/DynamicPlanning/Solution44/Solution44.java)
