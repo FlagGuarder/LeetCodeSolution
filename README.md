@@ -22,9 +22,9 @@ My leetcode china account : 许锦鹏
 
 [605. Can Place Flowers 种花问题](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution54/Solution.java)
 
-[228. Summary Ranges 区间计算](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution57/Solution.java
+[228. Summary Ranges 区间计算](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution57/Solution.java)
 
-[88. Merge Sorted Array 合并两个有序数组](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution65/Solution.java
+[88. Merge Sorted Array 合并两个有序数组](https://github.com/FlagGuarder/LeetCodeSolution/blob/master/algorithm/src/Array/Solution65/Solution.java)
 
 
 ### [String 字符串](https://github.com/FlagGuarder/LeetCodeSolution/tree/master/algorithm/src/string)
