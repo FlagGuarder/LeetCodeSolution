@@ -10,7 +10,7 @@ public class Solution {
                 indexMap.get(nums[i]).add(i);
             }else {
                 int finalI = i;
-                indexMap.put(nums[i],new ArrayList<>(){{add(finalI);}});
+                indexMap.put(nums[i],new ArrayList(){{add(finalI);}});
             }
         }
     }
